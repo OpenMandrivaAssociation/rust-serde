@@ -5,8 +5,8 @@
 %global crate serde
 
 Name:           rust-%{crate}
-Version:        1.0.125
-Release:        2
+Version:        1.0.205
+Release:        1
 Summary:        Generic serialization/deserialization framework
 
 # Upstream license specification: MIT OR Apache-2.0
