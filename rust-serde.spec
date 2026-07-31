@@ -5,7 +5,7 @@
 %global crate serde
 
 Name:           rust-%{crate}
-Version:        1.0.205
+Version:        1.0.229
 Release:        1
 Summary:        Generic serialization/deserialization framework
 
